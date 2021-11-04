@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.exe
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.deps.json
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.runtimeconfig.json
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.runtimeconfig.dev.json
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.dll
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.pdb
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.AssemblyInfo.cs
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.dll
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.pdb
+C:\Users\md048\source\repos\AdressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.genruntimeconfig.cache
