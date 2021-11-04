@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AdressBookSystem
 {
-    class Contact
+    public class Contact
     {
         public String firstName;
         public String lastName;
@@ -25,7 +25,7 @@ namespace AdressBookSystem
         /// <param name="zip">The zip code of person</param>
         /// <param name="phoneNumber">The phone number of person</param>
         /// <param name="email">The email.</param>
-        public Contact(String firstName, String lastName, String address, String city, String state, String zip, String phoneNumber, String email)
+        public Contact(string firstName, string lastName, string address, string city, string state, string zip, string phoneNumber, string email)
         {
             this.firstName = firstName;
             this.lastName = lastName;
@@ -36,15 +36,14 @@ namespace AdressBookSystem
             this.phoneNumber = phoneNumber;
             this.email = email;
         }
+
         /// <summary>
         /// To the string for return contacts details
         /// </summary>
         /// <returns></returns>
-        public string toString()
+        public override string ToString()
         {
-            return "first Name=" + firstName + ",last name=" + lastName + ",address="
-            + address + ",city=" + city + ",state=" + state + ",zip" +
-            zip + ",phone number=" + phoneNumber + "email=" + email;
+            return "\n FirstName = " + firstName + "\n Last Name = " + lastName + "\n Address = " + address + "\n City = " + city + "\n State = " + state + "\n Zip = " + zip + "\n Phone Number = " + phoneNumber + "\n Email = " + email;
         }
     }
 }
